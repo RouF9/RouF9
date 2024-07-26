@@ -19,7 +19,8 @@ I'm a front-end focused MERN stack developer with a passion for transforming ide
 *  Node.js
 *  Express.js 
 *  MongoDB
-*  Azure (Chatbot Development) 
+*  Azure (Chatbot Development)
+*  Web Hosting
 
 ###  🌱 I’m currently learning:
 
