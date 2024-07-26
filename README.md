@@ -2,7 +2,7 @@
 
 ##  👨‍💻  Junior Full-stack JavaScript Developer
 
-I'm passionate about building web applications and exploring the world of JavaScript. 
+I'm a front-end focused MERN stack developer with a passion for transforming ideas into beautiful, dynamic web applications. From crafting pixel-perfect user interfaces to building robust back-end systems with Node.js and MongoDB, I thrive on the challenge of creating seamless and engaging user experiences. My experience extends beyond development into the realm of web hosting, ensuring these applications are delivered reliably to users around the world. I'm passionate about harnessing the power of JavaScript and constantly exploring the latest technologies to bring innovative web experiences to life. Let's connect and build something amazing together!
 
 ###  🚀  Currently working on: 
 *  Building a WordPress website for Modarakia, an Ooredoo startup.
